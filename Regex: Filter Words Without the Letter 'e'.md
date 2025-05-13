@@ -21,6 +21,7 @@ if not re.search(r"e",i):
 l1.append(i) 
 print(l1)
 ```
+
 ## Output
 ![Screenshot (140)](https://github.com/user-attachments/assets/f2d132bc-1988-4d51-957a-ca53442d39e9)
 
